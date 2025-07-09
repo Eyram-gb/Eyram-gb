@@ -9,6 +9,8 @@ What drives me? Building ambitious products with positive, motivated people.
 
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Eyram-gb)](https://git.io/streak-stats)
+
 ## 🚀 What I Do
 
 - **Frontend Development** – Clean, accessible interfaces with React, Next.js, TypeScript, Tailwind CSS
@@ -51,6 +53,4 @@ What drives me? Building ambitious products with positive, motivated people.
 - Email: [eyramgb@gmail.com](mailto:eyramgb@gmail.com)
 
 ---
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Eyram-gb)](https://git.io/streak-stats)
 
