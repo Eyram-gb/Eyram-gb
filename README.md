@@ -52,4 +52,5 @@ What drives me? Building ambitious products with positive, motivated people.
 
 ---
 
-> “Make it work. Make it right. Make it fast.” – Kent Beck
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Eyram-gb)](https://git.io/streak-stats)
+
